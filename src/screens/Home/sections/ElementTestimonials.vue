@@ -3,11 +3,11 @@
     <div class="testimonial-card">
       <div class="testimonial">
         <div class="star">
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
         </div>
         <p class="text-wrapper-10">
           I was very impressed with FastGo handling of my recent shipment. They went above and beyond to ensure my
@@ -17,11 +17,11 @@
       </div>
       <div class="testimonial">
         <div class="star">
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
         </div>
         <p class="text-wrapper-10">
           I was very impressed with FastGo handling of my recent shipment. They went above and beyond to ensure my
@@ -31,11 +31,11 @@
       </div>
       <div class="testimonial">
         <div class="star">
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
         </div>
         <p class="text-wrapper-10">
           I was very impressed with FastGo handling of my recent shipment. They went above and beyond to ensure my
@@ -47,11 +47,11 @@
     <div class="testimonial-hero">
       <div class="testimonial-box">
         <div class="star">
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
-          <img class="star-2" alt="Star" src="/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
+          <img class="star-2" alt="Star" src="@/img/star-5.svg" />
         </div>
         <p class="i-have-been-using">
           I have been using FastGo cargo logistic &amp; transportation services for over a year now and I am extremely
@@ -66,11 +66,11 @@
             <img
               class="young-handsome"
               alt="Young handsome"
-              src="/img/young-handsome-business-man-choosing-car-car-showroom-1.png"
+              src="@/img/young-handsome-business-man-choosing-car-car-showroom-1.png"
             />
           </div>
         </div>
-        <img class="icon-4" alt="Icon" src="/img/icon-3.svg" />
+        <img class="icon-4" alt="Icon" src="@/img/icon-3.svg" />
       </div>
     </div>
     <div class="title-11">
